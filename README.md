@@ -1,2 +1,2 @@
-# yes-repo-name
+# test-repository
 Yes, repo description. This is a test.
